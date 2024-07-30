@@ -1,4 +1,4 @@
-#Control commands for Dabman-i200 radio
+# Control commands for Dabman-i200 radio
 
 Usage: curl -H 'Authorization: Basic c3UzZzRnbzZzazc6amkzOTQ1NHh1L14=' http://<ip of radio>/Sendkey?key=
 
