@@ -1,7 +1,9 @@
 Control commands for Dabman-i200 radio
 
 Usage: curl -H 'Authorization: Basic c3UzZzRnbzZzazc6amkzOTQ1NHh1L14=' http://<ip of radio>/Sendkey?key=
+
 The authorization key should always be "c3UzZzRnbzZzazc6amkzOTQ1NHh1L14=", but if not, the key can be found by snooping the traffic using Wireshark
+
 For more info see: https://github.com/dr-ni/dabman-i400
 
 |Code | Function                           |
